@@ -15,3 +15,5 @@ The aim of this is to facilitate anyone with a React app to organize a Majority 
 ### EsLint
 ### Prettier
 
+## known to work configs
+
